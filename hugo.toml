@@ -2,3 +2,23 @@ baseURL = 'https://doomtr666.github.io/whoiam/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-console"
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-us'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Christophe Delacourt'
+    weight = 1
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-fr'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Christophe Delacourt'
+    weight = 2
