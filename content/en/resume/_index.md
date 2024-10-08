@@ -2,9 +2,9 @@
 title: "Resume"
 ---
 
-## Experiences
+# Experiences
 
-```goat
+{{<goat>}}
                                Now
              +-                 ^
 Obvios       |                  |
@@ -36,16 +36,17 @@ Yaccom       |                  |
                                 |
              +-                 |
 French Army  |                  |     
-             +-  September 1998 o Corporal in the transmission corps
+             +-  September 1998 o Corporal in the transmission arm
 
-```
+{{</goat>}}
 
-## Skills
 
-## Publications
+# Skills
 
-## Education
+# Publications
 
-## Languages
+# Education
+
+# Languages
 
 
